@@ -1,86 +1,85 @@
 {
   "militair": [
-      {
-        "createdAt": "2023-02-09T21:22:14.676Z",
-        "username": "Argecy_",
-        "rangID": "1",
-        "id": "1"
-      },
-      {
-        "createdAt": "2023-02-09T20:53:02.099Z",
-        "username": "LangeBobbie",
-        "rangID": "2",
-        "id": "2"
-      },
-      {
-        "createdAt": "2023-02-09T16:33:40.666Z",
-        "username": "GeelEendje12",
-        "rangID": "3",
-        "id": "3"
-      }
-    ],
+    {
+      "createdAt": "2023-02-09T21:22:14.676Z",
+      "username": "Argecy_",
+      "rangID": "1",
+      "id": "1"
+    },
+    {
+      "createdAt": "2023-02-09T20:53:02.099Z",
+      "username": "LangeBobbie",
+      "rangID": "2",
+      "id": "2"
+    },
+    {
+      "createdAt": "2023-02-09T16:33:40.666Z",
+      "username": "GeelEendje12",
+      "rangID": "3",
+      "id": "3"
+    }
+  ],
   "brevetten": [
-      {
-       "createdAt": "2023-02-09T19:43:09.176Z",
-       "symbol": "°",
-       "name": "Algemene Informatie Defensie Cyber Commando",
-       "id": "1"
-      },
-      {
-       "createdAt": "2023-02-10T01:21:22.490Z",
-       "symbol": "P",
-       "name": "Programmeertalen",
-       "id": "2"
-      }
-     ],
-     "verlof" : [
-      {
-       "createdAt": "2023-02-09T21:01:09.326Z",
-       "verlofEind": "2023-08-24T22:01:37.559Z",
-       "militairID": "3",
-       "comment": "Niet bereikbaar",
-       "id": "1"
-      }
-     ],
-     "rang" : [
-      {
-       "createdAt": "2023-02-09T21:01:09.326Z",
-       "id": "1",
-       "naam": "Vice-admiraal",
-       "afkorting": "VADM",
-       "ranglaag" : "Vlagofficieren",
-       "krijgsmachtID" : "1"
-      }
-     ],
-     "krijgsmacht" : [
-      {
-          "id" : "1",
-          "naam" : "Koninklijke Marine",
-          "afkorting" : "KM"
-      }
-     ],
-     "vakgebied" : [
-      {
-          "id" : "1",
-          "naam" : "Departement Cyber Commando",
-          "afkorting" : "DCC"
-      }
-     ],
-     "functies" : [
-      {
-          "id" : "1",
-          "naam" : "Directeur Departement Cyber Commando",
-          "afkorting" : "DDCC",
-          "vakgebiedID" : "1"
-      }
-     ],
-     "promotie" : [
-      {
-          "id" : "1",
-          "militairID" : "1",
-          "rangID_old" : "1",
-          "rangID_new" : "1",
-          "time" : "2023-02-10T01:21:22.490Z"
-      }
-     ]
+    {
+      "createdAt": "2023-02-09T19:43:09.176Z",
+      "symbol": "°",
+      "name": "Algemene Informatie Defensie Cyber Commando",
+      "id": "1"
+    },
+    {
+      "createdAt": "2023-02-10T01:21:22.490Z",
+      "symbol": "P",
+      "name": "Programmeertalen",
+      "id": "2"
+    }
+  ],
+  "verlof": [
+    {
+      "createdAt": "2023-02-09T21:01:09.326Z",
+      "verlofEind": "2023-08-24T22:01:37.559Z",
+      "militairID": "3",
+      "comment": "Niet bereikbaar",
+      "id": "1"
+    }
+  ],
+  "rang": [
+    {
+      "id": "1",
+      "naam": "Vice-admiraal",
+      "afkorting": "VADM",
+      "ranglaag": "Vlagofficieren",
+      "krijgsmachtID": "1"
+    }
+  ],
+  "krijgsmacht": [
+    {
+      "id": "1",
+      "naam": "Koninklijke Marine",
+      "afkorting": "KM"
+    }
+  ],
+  "vakgebied": [
+    {
+      "id": "1",
+      "naam": "Departement Cyber Commando",
+      "afkorting": "DCC"
+    }
+  ],
+  "functies": [
+    {
+      "id": "1",
+      "naam": "Directeur Departement Cyber Commando",
+      "afkorting": "DDCC",
+      "vakgebiedID": "1"
+    }
+  ],
+  "promotie": [
+    {
+      "id": "1",
+      "militairID": "1",
+      "rangID_old": "1",
+      "rangID_new": "1",
+      "time": "2023-02-10T01:21:22.490Z"
+    }
+  ]
 }
