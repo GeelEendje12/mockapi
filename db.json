@@ -1,308 +1,86 @@
 {
-    "militairen": [
-        {
-          "createdAt": "2023-02-09T21:22:14.676Z",
-          "username": "Lillie65",
-          "rang": "Internal Usability Consultant",
-          "id": "1"
-        },
-        {
-          "createdAt": "2023-02-09T20:53:02.099Z",
-          "username": "Noel_Farrell41",
-          "rang": "Dynamic Optimization Associate",
-          "id": "2"
-        },
-        {
-          "createdAt": "2023-02-09T16:33:40.666Z",
-          "username": "Tracy1",
-          "rang": "Direct Tactics Manager",
-          "id": "3"
-        },
-        {
-          "createdAt": "2023-02-10T08:16:31.952Z",
-          "username": "Arno.Gottlieb",
-          "rang": "Chief Data Supervisor",
-          "id": "4"
-        },
-        {
-          "createdAt": "2023-02-10T03:20:04.763Z",
-          "username": "Halie.Schmidt",
-          "rang": "Global Configuration Associate",
-          "id": "5"
-        },
-        {
-          "createdAt": "2023-02-10T00:47:59.261Z",
-          "username": "Alexandria_Shields",
-          "rang": "Dynamic Optimization Strategist",
-          "id": "6"
-        },
-        {
-          "createdAt": "2023-02-09T12:17:23.448Z",
-          "username": "Clifford_Hegmann",
-          "rang": "Internal Paradigm Associate",
-          "id": "7"
-        },
-        {
-          "createdAt": "2023-02-09T18:51:38.789Z",
-          "username": "Jaunita37",
-          "rang": "Human Tactics Executive",
-          "id": "8"
-        },
-        {
-          "createdAt": "2023-02-09T16:21:13.839Z",
-          "username": "Franco_Schultz53",
-          "rang": "Central Identity Officer",
-          "id": "9"
-        },
-        {
-          "createdAt": "2023-02-09T11:53:37.900Z",
-          "username": "Neal_Veum35",
-          "rang": "Regional Applications Analyst",
-          "id": "10"
-        },
-        {
-          "createdAt": "2023-02-10T00:37:49.068Z",
-          "username": "Jacinto.Block97",
-          "rang": "Principal Accountability Liaison",
-          "id": "11"
-        },
-        {
-          "createdAt": "2023-02-09T15:53:09.572Z",
-          "username": "Kaia.Yundt30",
-          "rang": "District Research Facilitator",
-          "id": "12"
-        },
-        {
-          "createdAt": "2023-02-09T18:45:20.578Z",
-          "username": "Fannie_Beier60",
-          "rang": "Dynamic Usability Representative",
-          "id": "13"
-        },
-        {
-          "createdAt": "2023-02-09T11:40:10.300Z",
-          "username": "Anjali_MacGyver",
-          "rang": "Human Applications Architect",
-          "id": "14"
-        },
-        {
-          "createdAt": "2023-02-10T03:58:42.043Z",
-          "username": "Eduardo95",
-          "rang": "Principal Markets Planner",
-          "id": "15"
-        },
-        {
-          "createdAt": "2023-02-09T18:22:41.476Z",
-          "username": "Santino_Steuber",
-          "rang": "Chief Tactics Facilitator",
-          "id": "16"
-        },
-        {
-          "createdAt": "2023-02-10T06:02:41.059Z",
-          "username": "Jewell.Grady24",
-          "rang": "International Paradigm Administrator",
-          "id": "17"
-        },
-        {
-          "createdAt": "2023-02-09T13:16:54.332Z",
-          "username": "Tatum_Wyman15",
-          "rang": "Future Intranet Agent",
-          "id": "18"
-        },
-        {
-          "createdAt": "2023-02-10T00:08:53.199Z",
-          "username": "Maude50",
-          "rang": "Human Brand Representative",
-          "id": "19"
-        },
-        {
-          "createdAt": "2023-02-10T08:07:51.693Z",
-          "username": "Tina88",
-          "rang": "Product Accountability Director",
-          "id": "20"
-        },
-        {
-          "createdAt": "2023-02-09T19:57:51.773Z",
-          "username": "Stanley_Kessler",
-          "rang": "Legacy Marketing Facilitator",
-          "id": "21"
-        },
-        {
-          "createdAt": "2023-02-10T02:28:42.581Z",
-          "username": "Ora.Kub40",
-          "rang": "Investor Factors Agent",
-          "id": "22"
-        },
-        {
-          "createdAt": "2023-02-09T17:27:08.644Z",
-          "username": "Rebecca_Williamson41",
-          "rang": "Senior Optimization Manager",
-          "id": "23"
-        },
-        {
-          "createdAt": "2023-02-09T12:19:04.981Z",
-          "username": "Rae_Murazik",
-          "rang": "Investor Applications Associate",
-          "id": "24"
-        }
-      ],
-    "brevetten": [
-        {
-         "createdAt": "2023-02-09T19:43:09.176Z",
-         "symbol": "Rp",
-         "name": "X&}d+)eU8:",
-         "id": "1"
-        },
-        {
-         "createdAt": "2023-02-10T01:21:22.490Z",
-         "symbol": "₨",
-         "name": "kS/WCC)KZR",
-         "id": "2"
-        },
-        {
-         "createdAt": "2023-02-09T17:40:43.885Z",
-         "symbol": "ден",
-         "name": "ZmF=>Lq1!x",
-         "id": "3"
-        },
-        {
-         "createdAt": "2023-02-09T11:20:01.694Z",
-         "symbol": "N$",
-         "name": "0]u(F3+rtw",
-         "id": "4"
-        },
-        {
-         "createdAt": "2023-02-09T21:10:13.920Z",
-         "symbol": "$",
-         "name": "V=jF`$E0H>",
-         "id": "5"
-        },
-        {
-         "createdAt": "2023-02-09T23:43:41.142Z",
-         "symbol": "Bs",
-         "name": "Z-w7[fidV<",
-         "id": "6"
-        },
-        {
-         "createdAt": "2023-02-09T13:42:16.529Z",
-         "symbol": "C$",
-         "name": "uQo[2tHkzk",
-         "id": "7"
-        },
-        {
-         "createdAt": "2023-02-10T01:25:21.902Z",
-         "symbol": "₪",
-         "name": "-=G;h_u$mn",
-         "id": "8"
-        },
-        {
-         "createdAt": "2023-02-09T23:09:37.510Z",
-         "symbol": "K",
-         "name": "QPwz}M}sSC",
-         "id": "9"
-        },
-        {
-         "createdAt": "2023-02-09T15:59:43.069Z",
-         "symbol": "$",
-         "name": "Cn&\\Qo{G;H",
-         "id": "10"
-        },
-        {
-         "createdAt": "2023-02-10T07:17:13.127Z",
-         "symbol": "₦",
-         "name": "E(5o6.}q3y",
-         "id": "11"
-        },
-        {
-         "createdAt": "2023-02-09T11:20:57.406Z",
-         "symbol": "$",
-         "name": "{j_m4Lm`.n",
-         "id": "12"
-        },
-        {
-         "createdAt": "2023-02-10T05:15:01.403Z",
-         "symbol": "RM",
-         "name": ",5.2KIRyoc",
-         "id": "13"
-        },
-        {
-         "createdAt": "2023-02-09T15:31:29.789Z",
-         "symbol": "៛",
-         "name": "I1[-BJv#0C",
-         "id": "14"
-        },
-        {
-         "createdAt": "2023-02-09T20:48:42.756Z",
-         "symbol": "₮",
-         "name": "uTU4w8f8W[",
-         "id": "15"
-        },
-        {
-         "createdAt": "2023-02-09T18:27:52.800Z",
-         "symbol": "Bs",
-         "name": ")i08uKNZpo",
-         "id": "16"
-        },
-        {
-         "createdAt": "2023-02-10T07:54:10.066Z",
-         "symbol": "$",
-         "name": "HMQ}!.]{}H",
-         "id": "17"
-        },
-        {
-         "createdAt": "2023-02-10T07:41:13.994Z",
-         "symbol": "¥",
-         "name": ";S(DZC7z!m",
-         "id": "18"
-        },
-        {
-         "createdAt": "2023-02-10T07:03:13.656Z",
-         "symbol": "$",
-         "name": "EGNR[YwLM+",
-         "id": "19"
-        }
-       ],
-       "verlof" : [
-        {
-         "createdAt": "2023-02-09T21:01:09.326Z",
-         "verlofEind": "2023-08-24T22:01:37.559Z",
-         "username": "Rosetta.Murray78",
-         "comment": "Consequatur a ea. Doloremque laboriosam aperiam fuga quidem pariatur. Architecto quidem veniam voluptatum ab in ut ad harum.\nPossimus nostrum expedita blanditiis tenetur sunt accusantium nihil. Iusto eaque beatae nostrum accusantium id doloremque dolorum. Culpa occaecati hic nisi ad.\nFacere velit neque labore illo repellendus a dolore. Id non provident commodi rem perferendis. Sunt dolorem sed excepturi consequatur at debitis impedit neque voluptas. Expedita temporibus veritatis necessitatibus. Doloremque necessitatibus expedita molestias sed rerum aperiam esse quam ad. Vel eius temporibus placeat sint nihil libero exercitationem accusamus.",
-         "id": "1"
-        },
-        {
-         "createdAt": "2023-02-10T10:57:43.780Z",
-         "verlofEind": "2023-03-08T21:18:14.804Z",
-         "username": "Simone76",
-         "comment": "sapiente",
-         "id": "2"
-        },
-        {
-         "createdAt": "2023-02-09T16:45:27.251Z",
-         "verlofEind": "2023-12-05T21:09:10.851Z",
-         "username": "Sage_Rutherford",
-         "comment": "Praesentium explicabo blanditiis voluptatibus dolor.\nSit ea minima voluptatum labore accusamus omnis quisquam minima.\nCumque temporibus quae commodi molestiae blanditiis.\nQui consequuntur a repudiandae omnis.\nSuscipit accusantium blanditiis autem rem.",
-         "id": "3"
-        },
-        {
-         "createdAt": "2023-02-09T18:43:47.078Z",
-         "verlofEind": "2023-08-05T21:25:38.000Z",
-         "username": "Bailey_Rippin",
-         "comment": "At rerum reprehenderit mollitia neque.",
-         "id": "4"
-        },
-        {
-         "createdAt": "2023-02-09T18:38:51.999Z",
-         "verlofEind": "2023-11-07T18:32:37.301Z",
-         "username": "Marjory77",
-         "comment": "Dolore impedit facilis nostrum autem aperiam vitae quibusdam. Quaerat nostrum optio. Odit earum consequuntur dolore nesciunt esse. Aperiam veniam officia.",
-         "id": "5"
-        },
-        {
-         "createdAt": "2023-02-10T07:19:27.200Z",
-         "verlofEind": "2023-09-17T10:34:58.151Z",
-         "username": "Bradly21",
-         "comment": "Rerum nemo similique voluptate. Perspiciatis facilis harum saepe illum provident consectetur.",
-         "id": "6"
-        }
-       ]
+  "militairen": [
+      {
+        "createdAt": "2023-02-09T21:22:14.676Z",
+        "username": "Argecy_",
+        "rangID": "1",
+        "id": "1"
+      },
+      {
+        "createdAt": "2023-02-09T20:53:02.099Z",
+        "username": "LangeBobbie",
+        "rangID": "2",
+        "id": "2"
+      },
+      {
+        "createdAt": "2023-02-09T16:33:40.666Z",
+        "username": "GeelEendje12",
+        "rangID": "3",
+        "id": "3"
+      }
+    ],
+  "brevetten": [
+      {
+       "createdAt": "2023-02-09T19:43:09.176Z",
+       "symbol": "°",
+       "name": "Algemene Informatie Defensie Cyber Commando",
+       "id": "1"
+      },
+      {
+       "createdAt": "2023-02-10T01:21:22.490Z",
+       "symbol": "P",
+       "name": "Programmeertalen",
+       "id": "2"
+      }
+     ],
+     "verlof" : [
+      {
+       "createdAt": "2023-02-09T21:01:09.326Z",
+       "verlofEind": "2023-08-24T22:01:37.559Z",
+       "militairID": "3",
+       "comment": "Niet bereikbaar",
+       "id": "1"
+      }
+     ],
+     "rangen" : [
+      {
+       "createdAt": "2023-02-09T21:01:09.326Z",
+       "id": "1",
+       "naam": "Vice-admiraal",
+       "afkorting": "VADM",
+       "ranglaag" : "Vlagofficieren",
+       "krijgsmachtID" : "1"
+      }
+     ],
+     "krijgsmachten" : [
+      {
+          "id" : "1",
+          "naam" : "Koninklijke Marine",
+          "afkorting" : "KM"
+      }
+     ],
+     "vakgebieden" : [
+      {
+          "id" : "1",
+          "naam" : "Departement Cyber Commando",
+          "afkorting" : "DCC"
+      }
+     ],
+     "functies" : [
+      {
+          "id" : "1",
+          "naam" : "Directeur Departement Cyber Commando",
+          "afkorting" : "DDCC",
+          "vakgebiedID" : "1"
+      }
+     ],
+     "promoties" : [
+      {
+          "id" : "1",
+          "militairID" : "1",
+          "ouderangID" : "1",
+          "nieuwerangID" : "1",
+          "time" : "2023-02-10T01:21:22.490Z"
+      }
+     ]
 }
