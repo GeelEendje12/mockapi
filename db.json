@@ -1,5 +1,5 @@
 {
-  "militairen": [
+  "militair": [
       {
         "createdAt": "2023-02-09T21:22:14.676Z",
         "username": "Argecy_",
@@ -42,7 +42,7 @@
        "id": "1"
       }
      ],
-     "rangen" : [
+     "rang" : [
       {
        "createdAt": "2023-02-09T21:01:09.326Z",
        "id": "1",
@@ -52,14 +52,14 @@
        "krijgsmachtID" : "1"
       }
      ],
-     "krijgsmachten" : [
+     "krijgsmacht" : [
       {
           "id" : "1",
           "naam" : "Koninklijke Marine",
           "afkorting" : "KM"
       }
      ],
-     "vakgebieden" : [
+     "vakgebied" : [
       {
           "id" : "1",
           "naam" : "Departement Cyber Commando",
@@ -74,12 +74,12 @@
           "vakgebiedID" : "1"
       }
      ],
-     "promoties" : [
+     "promotie" : [
       {
           "id" : "1",
           "militairID" : "1",
-          "ouderangID" : "1",
-          "nieuwerangID" : "1",
+          "rangID_old" : "1",
+          "rangID_new" : "1",
           "time" : "2023-02-10T01:21:22.490Z"
       }
      ]
